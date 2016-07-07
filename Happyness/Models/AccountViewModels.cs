@@ -71,7 +71,7 @@ namespace Happyness.Models
     {
         [Required]
         [EmailAddress]
-        [Display(Name = "Email")]
+        [Display(Name = "Email Address 123")]
         public string Email { get; set; }
 
         [Required]
